@@ -1,6 +1,6 @@
 import React from "react";
 
-function Info() {
+function Note() {
   return (
     <div className="note">
       <h1>Javascript and React</h1>
@@ -9,4 +9,4 @@ function Info() {
   );
 }
 
-export default Info;
+export default Note;
